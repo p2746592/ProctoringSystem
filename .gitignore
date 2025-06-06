@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.db
+*.log
+*.key
+*.exe
+*.spec
+build/
+dist/
+.venv/
+secret.key
