@@ -1,0 +1,15 @@
+flask
+tk
+pynput
+pyautogui
+pygetwindow
+psutil
+pywin32
+Pillow
+opencv-python
+cryptography
+fpdf
+requests
+pyinstaller
+
+#pip install -r requirements.txt
